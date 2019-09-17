@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalaapp.iml" filepath="$PROJECT_DIR$/.idea/modules/scalaapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaApp.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaApp-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaApp-build.iml" />
     </modules>
   </component>
 </project>
